@@ -1,6 +1,6 @@
 {
   "name": "@inovit-bd/ms-common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared service library for microservice",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
